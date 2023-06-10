@@ -1,3 +1,5 @@
+
+
 import pandas as pd #CSV 파일을 읽을 판다스 라이브러리를 pd로 가져오기
 
 class LDChatBot: #LDChatBot 클래스 정의
